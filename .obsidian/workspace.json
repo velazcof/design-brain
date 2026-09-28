@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UI UX Terminology.md",
+                "file": "Visual Design/Grids and Layouts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UI UX Terminology"
+              "title": "Grids and Layouts"
             }
           }
         ]
@@ -183,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94af64b6024b8784",
+  "active": "89295669e81a2dd9",
   "lastOpenFiles": [
-    "Visual Design/Visual Hierarchy.md",
     "UI UX Terminology.md",
+    "Visual Design/Grids and Layouts.md",
+    "Visual Design/Visual Hierarchy.md",
     "Visual Design/Gestalt Principles.md",
     "README.md",
     "Images",
