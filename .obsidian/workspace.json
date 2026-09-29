@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cb20d3f043110c7a",
+        "id": "d9ee4416bfe4ec70",
         "type": "tabs",
         "children": [
           {
-            "id": "89295669e81a2dd9",
+            "id": "3e6a5d50bc8ef874",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UI UX Terminology.md",
+                "file": "Terminology/Display & Viewport Terminology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UI UX Terminology"
+              "title": "Display & Viewport Terminology"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 214.83334350585938
   },
   "right": {
     "id": "e2556ce43ec9d2b0",
@@ -183,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 255.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,12 +197,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94af64b6024b8784",
+  "active": "3e6a5d50bc8ef874",
   "lastOpenFiles": [
+    "Terminology/Display & Viewport Terminology.md",
+    "Terminology",
     "Visual Design/Visual Hierarchy.md",
-    "UI UX Terminology.md",
+    "Terminology/UI UX Terminology.md",
     "Visual Design/Gestalt Principles.md",
-    "README.md",
     "Images",
     "Images/Pasted image 20260924105605.png",
     "Images/Pasted image 20260924105548.png",
