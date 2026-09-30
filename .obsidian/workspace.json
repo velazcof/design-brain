@@ -11,14 +11,14 @@
             "id": "3a3d4a7768033b6f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Visual Design/Grids and Layouts.md",
-                "bFile": "Visual Design/Grids and Layouts.md",
-                "aRef": ""
+                "file": "Visual Design/Spacing, Rhythm & the 8pt Grid.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Grids and Layouts  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Spacing, Rhythm & the 8pt Grid"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 304.16668701171875
   },
   "right": {
     "id": "e2556ce43ec9d2b0",
@@ -183,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 728.833251953125
+    "width": 432.833251953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,13 +199,14 @@
   },
   "active": "3a3d4a7768033b6f",
   "lastOpenFiles": [
+    "Visual Design/Grid Systems and Layout.md",
+    "Visual Design/Gestalt Principles.md",
+    "Visual Design/Spacing, Rhythm & the 8pt Grid.md",
     "Terminology/Display & Viewport Terminology.md",
     "Terminology/UI UX Terminology.md",
-    "Visual Design/Grid Systems and Layout.md",
     "Visual Design/Grids and Layouts.md",
     "README.md",
     "Visual Design/Visual Hierarchy.md",
-    "Visual Design/Gestalt Principles.md",
     "conflict-files-obsidian-git.md",
     "Terminology",
     "UI UX Terminology.md",

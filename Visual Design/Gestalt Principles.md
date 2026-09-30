@@ -6,6 +6,7 @@ Gestalt principles help make the structure of a UI obvious.
 
 ❌ A “bad” design is often one where the visual signals contradict the content.
 
+
 ### The 6 UI Principles
 
 | Principle     | Core question answered          | Primary UI application                              |
@@ -17,13 +18,13 @@ Gestalt principles help make the structure of a UI obvious.
 | Common Region | What is enclosed together?      | Card components, panels, toolbars                   |
 | Continuity    | What is the reading path?       | Reading order, steppers, column alignment, patterns |
 
-
 > [!NOTE] When reviewing a design
 > - Can I identify the groups without reading?
 > - Are related things closer together?
 > - Do things that look the same behave the same?
 > - Am I adding borders/cards where spacing alone would work?
 > - Does the eye naturally know where to go next?
+
 
 ### Gestalt and Hierarchy
 

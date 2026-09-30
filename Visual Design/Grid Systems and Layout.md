@@ -5,6 +5,7 @@ Grids create a consistent structure for **alignment, spacing, proportion, and gr
 
 ❌ A bad layout forces content into arbitrary columns or breakpoints just because the grid says so.
 
+
 ### Grid Anatomy
 
 |Term|Meaning|Example|
@@ -14,6 +15,7 @@ Grids create a consistent structure for **alignment, spacing, proportion, and gr
 |**Margin**|Space between content and the outer edge|`32px` page padding|
 |**Max Width**|Maximum width content can grow to|Centering content inside a `1200px` container|
 |**Baseline Grid**|Repeating vertical spacing rhythm|Using `4px` or `8px` increments|
+
 
 ### Spacing Systems
 
@@ -26,14 +28,11 @@ Use a small reusable spacing scale instead of inventing values everywhere.
 This creates consistent rhythm and makes components feel related.
 
 
-### 12-Column Grids
+### 12-Column Grids and Intrinsic Layout
 
 12-column grids became common because 12 divides cleanly into 2, 3, 4, and 6, making page-level subdivision flexible.
 
 They are still useful for large layout structure, but components should not be forced into arbitrary column counts if that makes their content awkward.
-
-
-### Intrinsic Layout
 
 Intrinsic layouts are based on the **natural size needs of the content**, rather than fixed device layouts.
 
@@ -43,16 +42,6 @@ grid-template-columns:
 ```
 
 This means each column should stay at least `280px` wide, while the browser fits as many columns as available space allows.
-
-
-### Responsiveness
-
-|Tool|Responds To|Typical Use|
-|---|---|---|
-|**Media Query**|Viewport size|Overall page structure|
-|**Container Query**|Component container size|Reusable components|
-|**Intrinsic Layout**|Available space and content constraints|Flexible card grids|
-Breakpoints should happen where the **content stops working well**, not just because a width matches a common phone, tablet, or desktop size.
 
 
 ### Layout and Hierarchy
@@ -65,18 +54,7 @@ Layout itself can communicate importance.
 - **Shared alignment** makes the page feel structured.
 - **Breaking the grid** can create emphasis when done deliberately.
 
-
-### Density
-
-|Density|Typical Use|
-|---|---|
-|**Comfortable**|Portfolios, marketing sites, onboarding|
-|**Cozy**|Productivity apps|
-|**Compact**|Dashboards, tables, admin tools|
-Density should match the product. A portfolio usually benefits from more breathing room than a data-heavy dashboard.
-
-
-### Common Layout Patterns
+Some common layout patterns are:
 
 |Pattern|Typical Use|
 |---|---|
@@ -84,6 +62,26 @@ Density should match the product. A portfolio usually benefits from more breathi
 |**Sidebar Layout**|Docs, dashboards|
 |**RAM Grid**|Responsive card layouts using `auto-fit/minmax()`|
 |**Masonry**|Variable-height galleries or feeds|
+
+
+### Responsiveness
+
+|Tool|Responds To|Typical Use|
+|---|---|---|
+|**Media Query**|Viewport size|Overall page structure|
+|**Container Query**|Component container size|Reusable components|
+|**Intrinsic Layout**|Available space and content constraints|Flexible card grids|
+Breakpoints should happen where the **content stops working well**, not just because a width matches a common phone, tablet, or desktop size.
+
+
+### Density
+
+| Density         | Typical Use                             |
+| --------------- | --------------------------------------- |
+| **Comfortable** | Portfolios, marketing sites, onboarding |
+| **Cozy**        | Productivity apps                       |
+| **Compact**     | Dashboards, tables, admin tools         |
+Density should match the product. A portfolio usually benefits from more breathing room than a data-heavy dashboard.
 
 
 ### Common Mistakes
