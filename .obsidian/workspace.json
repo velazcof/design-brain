@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d9ee4416bfe4ec70",
+        "id": "aec0d8c83b812e00",
         "type": "tabs",
         "children": [
           {
-            "id": "3e6a5d50bc8ef874",
+            "id": "77a4d7b20d1f6939",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Visual Design/Gestalt Principles.md",
-                "bFile": "Visual Design/Gestalt Principles.md",
-                "aRef": ""
+                "file": "Visual Design/Grid Systems and Layout.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Gestalt Principles  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Grid Systems and Layout"
             }
           }
         ]
@@ -197,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e6a5d50bc8ef874",
+  "active": "94af64b6024b8784",
   "lastOpenFiles": [
+    "Visual Design/Grids and Layouts.md",
     "Visual Design/Grid Systems and Layout.md",
     "Visual Design/Gestalt Principles.md",
     "Terminology/Display & Viewport Terminology.md",
