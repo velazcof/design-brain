@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Visual Design/Grids and Layouts.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grids and Layouts"
+              "title": "README"
             }
           }
         ]
@@ -183,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 728.833251953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,10 +199,10 @@
   },
   "active": "89295669e81a2dd9",
   "lastOpenFiles": [
-    "UI UX Terminology.md",
     "Visual Design/Grids and Layouts.md",
-    "Visual Design/Visual Hierarchy.md",
     "Visual Design/Gestalt Principles.md",
+    "UI UX Terminology.md",
+    "Visual Design/Visual Hierarchy.md",
     "README.md",
     "Images",
     "Images/Pasted image 20260924105605.png",
