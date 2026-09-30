@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aec0d8c83b812e00",
+        "id": "8a0f4e03d24d1cc6",
         "type": "tabs",
         "children": [
           {
-            "id": "77a4d7b20d1f6939",
+            "id": "3a3d4a7768033b6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Visual Design/Grid Systems and Layout.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Visual Design/Grids and Layouts.md",
+                "bFile": "Visual Design/Grids and Layouts.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Grid Systems and Layout"
+              "icon": "diff",
+              "title": "Diff: Grids and Layouts  (Working Tree)"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.83334350585938
+    "width": 200
   },
   "right": {
     "id": "e2556ce43ec9d2b0",
@@ -183,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 728.833251953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,15 +197,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94af64b6024b8784",
+  "active": "3a3d4a7768033b6f",
   "lastOpenFiles": [
-    "Visual Design/Grids and Layouts.md",
-    "Visual Design/Grid Systems and Layout.md",
-    "Visual Design/Gestalt Principles.md",
     "Terminology/Display & Viewport Terminology.md",
-    "Terminology",
-    "Visual Design/Visual Hierarchy.md",
     "Terminology/UI UX Terminology.md",
+    "Visual Design/Grid Systems and Layout.md",
+    "Visual Design/Grids and Layouts.md",
+    "README.md",
+    "Visual Design/Visual Hierarchy.md",
+    "Visual Design/Gestalt Principles.md",
+    "conflict-files-obsidian-git.md",
+    "Terminology",
+    "UI UX Terminology.md",
     "Images",
     "Images/Pasted image 20260924105605.png",
     "Images/Pasted image 20260924105548.png",
