@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Visual Design/Spacing, Rhythm & the 8pt Grid.md",
+                "file": "Visual Design/Contrast, Balance & Alignment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spacing, Rhythm & the 8pt Grid"
+              "title": "Contrast, Balance & Alignment"
             }
           }
         ]
@@ -199,9 +199,10 @@
   },
   "active": "3a3d4a7768033b6f",
   "lastOpenFiles": [
-    "Visual Design/Grid Systems and Layout.md",
     "Visual Design/Gestalt Principles.md",
     "Visual Design/Spacing, Rhythm & the 8pt Grid.md",
+    "Visual Design/Grid Systems and Layout.md",
+    "Visual Design/Contrast, Balance & Alignment.md",
     "Terminology/Display & Viewport Terminology.md",
     "Terminology/UI UX Terminology.md",
     "Visual Design/Grids and Layouts.md",
