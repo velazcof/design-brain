@@ -1,11 +1,11 @@
 
-Visual hierarchy is the practice of making an element's **visual importance match its actual importance**. Hierarchy is not decoration. It makes the structure and priorities of an interface visible.
+Visual hierarchy is the practice of making an element's **visual importance match its actual importance**. 
 
-A good interface should guide the user's eyes naturally:
-**What should I notice first? → What should I read next? → What should I do?**
+✔️ A good hierarchy makes the most important content noticeable first and guides attention in a clear order.
+
+❌ A bad hierarchy gives the wrong elements too much emphasis, makes everything compete equally, or leaves the user unsure where to look next.
 
 
- 
 ### Core Ideas
 
 |Tool|What it communicates|How to use it|Example|
@@ -16,7 +16,6 @@ A good interface should guide the user's eyes naturally:
 |**Spacing & Proximity**|Relationships|Keep related elements close together and separate unrelated groups with more whitespace.|A project title sits `8px` above its description, while the next project begins `48px` lower.|
 |**Position**|Reading order|Place important information where users naturally encounter it first and create a clear path through the interface.|Your name and role appear at the top of the hero before projects, experience, and contact details.|
 |**Shape & Surface**|Prominence|Backgrounds, borders, cards, buttons, and other containers add visual weight. Use them when they communicate meaning, not just decoration.|A filled primary button attracts more attention than a plain text link; a card background groups one project together.|
-
 
 ### Three-Level Hierarchy
 
@@ -41,7 +40,6 @@ Every element does not need to map to exactly three font sizes. The idea is that
 > - If I squint at the screen, does the intended structure remain obvious?
 
 
-
 ### Typography
 
 A strong typographic hierarchy uses:
@@ -57,7 +55,6 @@ Prefer clearly differentiated levels such as: ```14px 18px 28px 40px ```
 **The exact numbers are less important than the visible distinction.**
 
 
-
 ### Accessibility
 
 Visual hierarchy and semantic hierarchy should agree. If something visually behaves like the main heading, it should generally also be represented appropriately in HTML:
@@ -70,7 +67,6 @@ Visual hierarchy and semantic hierarchy should agree. If something visually beha
 not just visually enlarged `<div>` elements.
 
 Hierarchy should also remain understandable without relying exclusively on color, hover states, or extremely low contrast.
-
 
 
 ### Common Mistakes

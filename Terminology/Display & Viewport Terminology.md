@@ -23,7 +23,7 @@ A reference for common screen, resolution, viewport, and responsive-design terms
 | **PPI**                      | Pixels per inch — a measurement of display pixel density.                              | A phone usually has a much higher PPI than a desktop monitor    |
 
 
-## Common Resolution Names
+### Common Resolution Names
 
 |Name|Typical Resolution|Aspect Ratio|
 |---|---|---|
@@ -33,8 +33,7 @@ A reference for common screen, resolution, viewport, and responsive-design terms
 |**4K / UHD**|3840 × 2160|16:9|
 
 
-
-## Common Aspect Ratios
+### Common Aspect Ratios
 
 |Ratio|Common Use|
 |---|---|
@@ -48,8 +47,7 @@ Aspect ratio describes **shape**, not resolution.
 For example: ```1920 × 1080 and 3840 × 2160``` are both `16:9`.
 
 
-
-## Rough CSS Viewport Widths
+### Rough CSS Viewport Widths
 
 | Device Type | Rough Width |
 | ----------- | ----------- |
@@ -57,11 +55,11 @@ For example: ```1920 × 1080 and 3840 × 2160``` are both `16:9`.
 | **Tablet**  | 600–1000px  |
 | **Laptop**  | 1200–1600px |
 | **Desktop** | 1440px+     |
-Common values: ```360, 375, 390, 412, 430, 768, 1024, 1280, 1366, 1440, 1536, 1920```
+**Common values:** ```360, 375, 390, 412, 430, 768, 1024, 1280, 1366, 1440, 1536, 1920```
 
-Any of these values should not automatically become breakpoints - choose breakpoints where the **content or layout actually stops working well**.
+Any of these values should not automatically become breakpoints - choose breakpoints where the content or layout actually stops working well.
 
-Examples:
+**Examples:**
 
 - Navigation no longer fits horizontally
 - Cards become too narrow
@@ -70,8 +68,7 @@ Examples:
 - Two-column content should stack
 
 
-
-## CSS Pixels vs Physical Pixels
+### CSS Pixels vs Physical Pixels
 
 A modern high-density phone might have:
 
@@ -79,11 +76,8 @@ A modern high-density phone might have:
 Physical resolution: 1170 × 2532
 CSS viewport width: 390px
 DPR: 3
-```
 
 Roughly:
-
-```
 1170 / 3 = 390
 ```
 

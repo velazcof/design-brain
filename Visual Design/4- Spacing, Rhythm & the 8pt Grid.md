@@ -25,7 +25,7 @@ A common spacing system uses multiples of `8px`, with `4px` as a smaller half-st
 The exact scale can vary. The important part is having **limited, intentional choices** instead of arbitrary spacing everywhere.
 
 
-### Spacing and Meaning
+### Spacing
 
 Spacing is semantic because distance communicates relationships.
 
@@ -37,6 +37,9 @@ Spacing is semantic because distance communicates relationships.
 |Major page sections|64–96px|
 
 This is Gestalt proximity in practice: tighter spacing says **“these belong together”**, while larger spacing says **“this is a separate group.”**
+
+
+### Meaning
 
 For responsiveness, component spacing should usually remain predictable, while page-level spacing can become more generous as more space becomes available.
 
@@ -73,11 +76,7 @@ Using `gap` for sibling spacing generally keeps reusable components cleaner than
 
 Spacing and typography should feel like they belong to the same system.
 
-For example, `16px` body text with a `24px` line-height works naturally with a spacing scale containing values like:
-
-```
-8, 16, 24, 32, 48
-```
+For example, `16px` body text with a `24px` line-height works naturally with a spacing scale containing values like: ```8, 16, 24, 32, 48```
 
 Repeated relationships like these create a calmer, more consistent vertical rhythm.
 
