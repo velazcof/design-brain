@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typography/1- Type Fundamentals.md",
+                "file": "Typography/2- Typographic Hierarchy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- Type Fundamentals"
+              "title": "2- Typographic Hierarchy"
             }
           }
         ]
@@ -200,16 +200,17 @@
   "active": "3a3d4a7768033b6f",
   "lastOpenFiles": [
     "Typography/1- Type Fundamentals.md",
-    "Visual Design/1- Gestalt Principles.md",
+    "Typography/2- Typographic Hierarchy.md",
     "Visual Design/3- Grid Systems and Layout.md",
-    "Visual Design/4- Spacing, Rhythm & the 8pt Grid.md",
     "Visual Design/2- Visual Hierarchy.md",
+    "Visual Design/1- Gestalt Principles.md",
+    "Visual Design/4- Spacing, Rhythm & the 8pt Grid.md",
     "Visual Design/5- Contrast, Balance & Alignment.md",
+    "Terminology/Display & Viewport Terminology.md",
+    "Guide.md",
     "Terminology/UI UX Terminology.md",
     "Terminology/Typography Terminology.md",
-    "Terminology/Display & Viewport Terminology.md",
     "Typography",
-    "Untitled.md",
     "Visual Design/Grids and Layouts.md",
     "README.md",
     "conflict-files-obsidian-git.md",

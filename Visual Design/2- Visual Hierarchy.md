@@ -91,3 +91,6 @@ Hierarchy should also remain understandable without relying exclusively on color
     
 - **Making the wrong thing visually dominant.**  
     Visual prominence should reflect actual importance.
+
+
+#### Next: [[3- Grid Systems and Layout]]

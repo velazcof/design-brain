@@ -74,28 +74,6 @@ AV   To   WA
 Tracking is useful for things like all-caps labels, but adding lots of spacing to normal body text can hurt readability.
 
 
-### Typographic Hierarchy
-
-Hierarchy should usually combine multiple properties rather than relying on size alone.
-
-|Variable|Example|
-|---|---|
-|**Size**|Heading larger than body text|
-|**Weight**|Heading semibold, body regular|
-|**Color**|Secondary text slightly muted|
-|**Spacing**|More space before major headings|
-
-For example:
-
-```
-Large + Bold       → Primary
-Medium + Semibold  → Secondary
-Small + Regular    → Supporting
-```
-
-Using at least two cues makes the hierarchy clearer without requiring enormous size differences.
-
-
 ### Type Scales
 
 A type scale is a limited set of font sizes used consistently throughout a design.
@@ -121,7 +99,6 @@ Fonts can contain additional typographic behaviour and alternate glyphs.
 |**Tabular Figures**|Give numbers equal width for tables and dashboards|
 |**Oldstyle Figures**|Numbers designed to blend into body text|
 |**Small Caps**|Properly designed smaller capital letters|
-
 These features are usually subtle, but they can improve polish in specific contexts.
 
 
