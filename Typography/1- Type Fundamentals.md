@@ -8,12 +8,12 @@ Typography is not just choosing a nice font. Good UI typography depends on **leg
 
 ### Typeface Categories
 
-|Category|Characteristics|Typical Use|
-|---|---|---|
-|**Serif**|Small finishing strokes on letters|Editorial, long-form reading, expressive headings|
-|**Sans-serif**|Clean strokes without serifs|UI, apps, dashboards, portfolios|
-|**Monospace**|Every character takes equal horizontal space|Code, terminals, tabular data|
-|**Display / Decorative**|Highly expressive letterforms|Large headings and branding|
+| Category                 | Characteristics                                                         | Common Uses                                              |
+| ------------------------ | ----------------------------------------------------------------------- | -------------------------------------------------------- |
+| **Serif**                | Letterforms with finishing strokes; often more traditional or editorial | Body text, editorial layouts, books, expressive headings |
+| **Sans-serif**           | Cleaner letterforms without serifs; often modern and neutral            | UI text, body copy, headings, apps, dashboards           |
+| **Monospace**            | Every character occupies equal horizontal space                         | Code, terminals, technical data                          |
+| **Display / Decorative** | Highly distinctive or expressive letterforms                            | Large headings, branding, short attention-grabbing text  |
 
 For interfaces, humanist sans-serifs such as Inter tend to work well because their letterforms remain distinct at small sizes.
 
@@ -47,10 +47,7 @@ Typical starting points:
 |**Body text**|`1.4–1.6`|
 |**Large headings**|`1.1–1.25`|
 
-Unitless line-height is usually preferred because it scales automatically with the font size.
-
-
-### px, em & rem
+Unitless line-height is usually preferred because it scales automatically with the font size. However, for the record, the most common units used are:
 
 |Unit|Relative To|Typical Use|
 |---|---|---|
@@ -113,10 +110,7 @@ Weight:
 
 This allows typography to vary fluidly and can simplify font loading.
 
-
-### Contrast & Accessibility
-
-For WCAG 2.2 AA:
+For accessibility - WCAG 2.2 AA:
 
 - Normal text requires at least **4.5:1** contrast.
 - Large text requires at least **3:1**.
