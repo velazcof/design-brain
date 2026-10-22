@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typography/2- Typographic Hierarchy.md",
+                "file": "Color/Color Theory Foundations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Typographic Hierarchy"
+              "title": "Color Theory Foundations"
             }
           }
         ]
@@ -197,26 +197,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a3d4a7768033b6f",
+  "active": "d74808cb2c016e6f",
   "lastOpenFiles": [
-    "Typography/1- Type Fundamentals.md",
-    "Typography/2- Typographic Hierarchy.md",
-    "Visual Design/1- Gestalt Principles.md",
-    "Visual Design/4- Spacing, Rhythm & the 8pt Grid.md",
-    "Visual Design/5- Contrast, Balance & Alignment.md",
-    "Visual Design/3- Grid Systems and Layout.md",
-    "Visual Design/2- Visual Hierarchy.md",
-    "Terminology/Display & Viewport Terminology.md",
     "Guide.md",
-    "Terminology/UI UX Terminology.md",
-    "Terminology/Typography Terminology.md",
+    "Color/Color Theory Foundations.md",
+    "Color",
+    "Visual Design/4- Spacing, Rhythm & the 8pt Grid.md",
+    "Typography/2- Typographic Hierarchy.md",
+    "Typography/1- Type Fundamentals.md",
+    "Visual Design/3- Grid Systems and Layout.md",
+    "Visual Design/1- Gestalt Principles.md",
+    "Visual Design/5- Contrast, Balance & Alignment.md",
+    "Visual Design/2- Visual Hierarchy.md",
+    "_terminology/Display & Viewport Terminology.md",
+    "_terminology/UI UX Terminology.md",
+    "_terminology/Typography Terminology.md",
     "Typography",
     "Visual Design/Grids and Layouts.md",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "Terminology",
+    "_terminology",
     "UI UX Terminology.md",
-    "Images",
+    "_images",
     "Images/Pasted image 20260924105605.png",
     "Images/Pasted image 20260924105548.png",
     "Images/Pasted image 20260924105513.png",
