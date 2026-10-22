@@ -55,13 +55,9 @@ Do not judge fonts only from specimen pages.
 Test using:
 
 - real headings and paragraphs
-    
 - the actual sizes you plan to use
-    
 - buttons, labels, and navigation
-    
 - light and dark themes
-    
 - mobile and desktop layouts
 
 The pairing needs to work inside the actual interface, not just look nice beside each other.
@@ -74,11 +70,8 @@ Each additional font family adds loading cost.
 Prefer:
 
 - variable fonts when available
-    
 - only the weights/styles you actually use
-    
 - modern `.woff2` files
-    
 - avoiding unnecessary third or fourth typefaces
 
 
