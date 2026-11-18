@@ -51,4 +51,4 @@ Proximity and Similarity answer “what belongs together?” while size, weight,
 	If two sections are sufficiently far apart, you may not need a border or divider at all. Extra separators can just create noise.
 
 
-#### Next: [[2- Visual Hierarchy]]
+##### Next: [[2- Visual Hierarchy]]

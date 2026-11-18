@@ -105,4 +105,4 @@ Density should match the product. A portfolio usually benefits from more breathi
     Grid-breaking creates emphasis only when the surrounding structure is otherwise consistent.
 
 
-#### Next: [[4- Spacing, Rhythm & the 8pt Grid]]
+##### Next: [[4- Spacing, Rhythm & the 8pt Grid]]

@@ -23,13 +23,9 @@ Keep expressive fonts mostly for larger text. Body text should prioritize clarit
 Look for some shared characteristics even when the fonts are visually different:
 
 - Similar **x-height** and proportions
-    
 - Compatible **stroke weight**
-    
 - Similar openness in counters and apertures
-    
 - A related mood or design tradition
-    
 - Weights that feel visually balanced
 
 > **They should feel like siblings — not twins, and not strangers.**
