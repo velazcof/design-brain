@@ -11,10 +11,14 @@
             "id": "3a3d4a7768033b6f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Responsiveness/2- Container Queries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2- Container Queries"
             }
           }
         ]
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 231.5
   },
   "right": {
     "id": "e2556ce43ec9d2b0",
@@ -196,6 +200,7 @@
   "active": "3a3d4a7768033b6f",
   "lastOpenFiles": [
     "Responsiveness/1- Mobile First Strategy.md",
+    "Responsiveness/2- Container Queries.md",
     "Typography/4- Font Pairing.md",
     "Responsiveness",
     "Typography/1- Type Fundamentals.md",
